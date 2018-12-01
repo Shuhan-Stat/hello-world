@@ -1,3 +1,4 @@
 # hello-world
-Just another repository
-Hello, just for practice.
+Just one test repository
+
+Hi, for practice.
